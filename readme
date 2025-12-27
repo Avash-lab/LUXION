@@ -22,17 +22,4 @@ We are committed to continuous improvement. Please watch for forthcoming updates
 - pip package manager
 - SQLite (included with Python)
 
-### Installation
 
-#### Method 1: From Source
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/luxion.git
-cd luxion
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-python luxion.py
--------------------------------------------------------------------------------
