@@ -949,7 +949,7 @@ def answer_with_ollama(question):
                     "num_predict": 150
                 }
             },
-            timeout=30  # Increased timeout
+            timeout=30
         )
         
         if response.status_code == 200:
